@@ -3,7 +3,7 @@
     "quote": "你以為一般屬性很弱嗎？",
     "orignialQuote": "Normal doesn’t mean weak.",
     "category": "一般",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -17,7 +17,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/519.png"
       },
       {
         "slotNo": 1,
@@ -29,7 +29,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/504.png"
       },
       {
         "slotNo": 1,
@@ -41,7 +41,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/293.png"
       },
       {
         "slotNo": 2,
@@ -53,7 +53,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/019.png"
       },
       {
         "slotNo": 2,
@@ -65,7 +65,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/020.png"
       },
       {
         "slotNo": 2,
@@ -77,7 +77,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/294.png"
       },
       {
         "slotNo": 3,
@@ -89,7 +89,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/217.png"
       },
       {
         "slotNo": 3,
@@ -101,7 +101,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/020.png"
       },
       {
         "slotNo": 3,
@@ -114,7 +114,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/400.png"
       }
     ]
   },
@@ -122,7 +122,7 @@
     "quote": "你知道寶可夢吐出的火焰有多熱嗎？",
     "orignialQuote": "Do you know how hot Pokémon fire breath can get?",
     "category": "火",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -135,7 +135,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/255.png"
       },
       {
         "slotNo": 1,
@@ -148,7 +148,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/322.png"
       },
       {
         "slotNo": 1,
@@ -160,7 +160,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/037.png"
       },
       {
         "slotNo": 2,
@@ -172,7 +172,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/156.png"
       },
       {
         "slotNo": 2,
@@ -184,7 +184,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/126.png"
       },
       {
         "slotNo": 3,
@@ -196,7 +196,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/157.png"
       },
       {
         "slotNo": 3,
@@ -209,7 +209,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/323.png"
       },
       {
         "slotNo": 3,
@@ -221,7 +221,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/038.png"
       }
     ]
   },
@@ -229,7 +229,7 @@
     "quote": "這片海域很危險！",
     "orignialQuote": "These waters are treacherous",
     "category": "水",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -242,7 +242,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/320.png"
       },
       {
         "slotNo": 1,
@@ -254,7 +254,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/258.png"
       },
       {
         "slotNo": 1,
@@ -266,7 +266,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/054.png"
       },
       {
         "slotNo": 2,
@@ -278,7 +278,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/159.png"
       },
       {
         "slotNo": 2,
@@ -290,7 +290,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/055.png"
       },
       {
         "slotNo": 3,
@@ -302,7 +302,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/321.png"
       },
       {
         "slotNo": 3,
@@ -314,7 +314,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/160.png"
       },
       {
         "slotNo": 3,
@@ -326,7 +326,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/055.png"
       },
       {
         "slotNo": 4,
@@ -338,7 +338,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/129.png"
       },
       {
         "slotNo": 5,
@@ -350,7 +350,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/129.png"
       },
       {
         "slotNo": 6,
@@ -362,7 +362,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/129.png"
       },
       {
         "slotNo": 6,
@@ -375,7 +375,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png"
       }
     ]
   },
@@ -383,7 +383,7 @@
     "quote": "我們可是野火燒不盡，春風吹又生！",
     "orignialQuote": "Don’t tangle with us!",
     "category": "草",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -396,7 +396,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/331.png"
       },
       {
         "slotNo": 1,
@@ -408,7 +408,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/252.png"
       },
       {
         "slotNo": 1,
@@ -421,7 +421,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/043.png"
       },
       {
         "slotNo": 2,
@@ -433,7 +433,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/153.png"
       },
       {
         "slotNo": 2,
@@ -446,7 +446,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/044.png"
       },
       {
         "slotNo": 3,
@@ -459,7 +459,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/332.png"
       },
       {
         "slotNo": 3,
@@ -471,7 +471,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/154.png"
       },
       {
         "slotNo": 3,
@@ -484,7 +484,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/591.png"
       }
     ]
   },
@@ -492,7 +492,7 @@
     "quote": "你就等著被電吧！",
     "orignialQuote": "Get ready to be shocked!",
     "category": "電",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -505,7 +505,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/403.png"
       },
       {
         "slotNo": 1,
@@ -517,7 +517,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/179.png"
       },
       {
         "slotNo": 1,
@@ -529,7 +529,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/522.png"
       },
       {
         "slotNo": 2,
@@ -541,7 +541,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/100.png"
       },
       {
         "slotNo": 2,
@@ -553,7 +553,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/125.png"
       },
       {
         "slotNo": 3,
@@ -565,7 +565,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/405.png"
       },
       {
         "slotNo": 3,
@@ -577,7 +577,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/181.png"
       },
       {
         "slotNo": 3,
@@ -589,7 +589,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/523.png"
       }
     ]
   },
@@ -597,7 +597,7 @@
     "quote": "這飽滿的肌肉可不是擺著好看的！",
     "orignialQuote": "This buff physique isn’t just for show!",
     "category": "格鬥",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -610,7 +610,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/296.png"
       },
       {
         "slotNo": 1,
@@ -622,7 +622,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/106.png"
       },
       {
         "slotNo": 1,
@@ -634,7 +634,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/107.png"
       },
       {
         "slotNo": 2,
@@ -646,7 +646,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/106.png"
       },
       {
         "slotNo": 2,
@@ -658,7 +658,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/107.png"
       },
       {
         "slotNo": 3,
@@ -670,7 +670,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/068.png"
       },
       {
         "slotNo": 3,
@@ -682,7 +682,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/106.png"
       },
       {
         "slotNo": 3,
@@ -694,7 +694,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/107.png"
       }
     ]
   },
@@ -702,7 +702,7 @@
     "quote": "你怎麼可能打得過我呢。\n你就等著打輸吧！\n只有贏家才能贏！",
     "orignialQuote": "Don’t bother – I’ve already won.&nbsp;\nGet ready to be defeated!\nWinning is for winners!",
     "category": "格鬥",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -715,7 +715,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png"
       },
       {
         "slotNo": 2,
@@ -727,7 +727,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png"
       },
       {
         "slotNo": 2,
@@ -740,7 +740,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/062.png"
       },
       {
         "slotNo": 2,
@@ -753,7 +753,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/282.png"
       },
       {
         "slotNo": 3,
@@ -765,7 +765,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png"
       },
       {
         "slotNo": 3,
@@ -778,7 +778,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png"
       },
       {
         "slotNo": 3,
@@ -791,7 +791,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/149.png"
       },
       {
         "slotNo": 6,
@@ -803,7 +803,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/004.png"
       },
       {
         "slotNo": 6,
@@ -815,7 +815,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/007.png"
       },
       {
         "slotNo": 6,
@@ -828,7 +828,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/001.png"
       },
       {
         "slotNo": 7,
@@ -840,7 +840,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/156.png"
       },
       {
         "slotNo": 7,
@@ -852,7 +852,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/153.png"
       },
       {
         "slotNo": 8,
@@ -864,7 +864,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/254.png"
       },
       {
         "slotNo": 8,
@@ -877,7 +877,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/260.png"
       },
       {
         "slotNo": 8,
@@ -890,7 +890,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/257.png"
       }
     ]
   },
@@ -898,7 +898,7 @@
     "quote": "好好嚐嚐著猛毒吧！",
     "orignialQuote": "Coiled and ready to strike!",
     "category": "毒",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -911,7 +911,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/088.png"
       },
       {
         "slotNo": 1,
@@ -924,7 +924,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/590.png"
       },
       {
         "slotNo": 2,
@@ -936,7 +936,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/030.png"
       },
       {
         "slotNo": 2,
@@ -948,7 +948,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/033.png"
       },
       {
         "slotNo": 3,
@@ -960,7 +960,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/110.png"
       },
       {
         "slotNo": 3,
@@ -972,7 +972,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/089.png"
       }
     ]
   },
@@ -980,7 +980,7 @@
     "quote": "我會把你重重摔到地面上！",
     "orignialQuote": "You’ll be defeated into the ground!",
     "category": "地面",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -993,7 +993,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/449.png"
       },
       {
         "slotNo": 1,
@@ -1005,7 +1005,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/231.png"
       },
       {
         "slotNo": 2,
@@ -1017,7 +1017,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/449.png"
       },
       {
         "slotNo": 2,
@@ -1029,7 +1029,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/232.png"
       },
       {
         "slotNo": 3,
@@ -1041,7 +1041,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/450.png"
       }
     ]
   },
@@ -1049,7 +1049,7 @@
     "quote": "讓你見識見識我華麗的飛行屬性寶可夢！",
     "orignialQuote": "Battle against my Flying-type Pokémon!",
     "category": "飛行",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1063,7 +1063,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/177.png"
       },
       {
         "slotNo": 1,
@@ -1076,7 +1076,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/580.png"
       },
       {
         "slotNo": 1,
@@ -1089,7 +1089,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/041.png"
       },
       {
         "slotNo": 2,
@@ -1102,7 +1102,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/178.png"
       },
       {
         "slotNo": 2,
@@ -1115,7 +1115,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/397.png"
       },
       {
         "slotNo": 2,
@@ -1128,7 +1128,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/042.png"
       },
       {
         "slotNo": 3,
@@ -1141,7 +1141,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/149.png"
       },
       {
         "slotNo": 3,
@@ -1154,7 +1154,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png"
       },
       {
         "slotNo": 3,
@@ -1167,7 +1167,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/169.png"
       }
     ]
   },
@@ -1175,7 +1175,7 @@
     "quote": "使用看不見力量的超能力者是不是讓你很害怕啊？",
     "orignialQuote": "Are you scared of psychics that use unseen power?",
     "category": "超能力",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1189,7 +1189,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/177.png"
       },
       {
         "slotNo": 1,
@@ -1201,7 +1201,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/325.png"
       },
       {
         "slotNo": 1,
@@ -1213,7 +1213,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/063.png"
       },
       {
         "slotNo": 2,
@@ -1226,7 +1226,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/280.png"
       },
       {
         "slotNo": 2,
@@ -1239,7 +1239,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/203.png"
       },
       {
         "slotNo": 3,
@@ -1252,7 +1252,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/375.png"
       },
       {
         "slotNo": 3,
@@ -1264,7 +1264,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/097.png"
       },
       {
         "slotNo": 3,
@@ -1276,7 +1276,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/065.png"
       }
     ]
   },
@@ -1284,7 +1284,7 @@
     "quote": "我可愛的昆蟲寶可夢，上吧！",
     "orignialQuote": "Go, my super bug Pokémon!",
     "category": "蟲",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1298,7 +1298,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/451.png"
       },
       {
         "slotNo": 1,
@@ -1311,7 +1311,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/213.png"
       },
       {
         "slotNo": 1,
@@ -1324,7 +1324,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/595.png"
       },
       {
         "slotNo": 2,
@@ -1337,7 +1337,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/013.png"
       },
       {
         "slotNo": 2,
@@ -1350,7 +1350,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/014.png"
       },
       {
         "slotNo": 2,
@@ -1363,7 +1363,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/015.png"
       },
       {
         "slotNo": 3,
@@ -1376,7 +1376,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/205.png"
       },
       {
         "slotNo": 3,
@@ -1389,7 +1389,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/212.png"
       },
       {
         "slotNo": 3,
@@ -1402,7 +1402,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/015.png"
       }
     ]
   },
@@ -1410,7 +1410,7 @@
     "quote": "Let's rock and roll！",
     "orignialQuote": "Let’s rock and roll!",
     "category": "岩石",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1424,7 +1424,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/095.png"
       },
       {
         "slotNo": 1,
@@ -1437,7 +1437,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/345.png"
       },
       {
         "slotNo": 1,
@@ -1450,7 +1450,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/347.png"
       },
       {
         "slotNo": 2,
@@ -1463,7 +1463,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/075.png"
       },
       {
         "slotNo": 2,
@@ -1476,7 +1476,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/345.png"
       },
       {
         "slotNo": 2,
@@ -1489,7 +1489,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/347.png"
       },
       {
         "slotNo": 3,
@@ -1502,7 +1502,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/076.png"
       },
       {
         "slotNo": 3,
@@ -1515,7 +1515,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/095.png"
       },
       {
         "slotNo": 3,
@@ -1528,7 +1528,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/208.png"
       }
     ]
   },
@@ -1536,7 +1536,7 @@
     "quote": "科、科科、科科科！",
     "orignialQuote": "Ke…ke…ke…ke…ke…ke!",
     "category": "幽靈",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1549,7 +1549,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/355.png"
       },
       {
         "slotNo": 1,
@@ -1561,7 +1561,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/353.png"
       },
       {
         "slotNo": 1,
@@ -1574,7 +1574,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/425.png"
       },
       {
         "slotNo": 2,
@@ -1586,7 +1586,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/356.png"
       },
       {
         "slotNo": 2,
@@ -1598,7 +1598,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/354.png"
       },
       {
         "slotNo": 2,
@@ -1611,7 +1611,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/622.png"
       },
       {
         "slotNo": 3,
@@ -1623,7 +1623,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/477.png"
       },
       {
         "slotNo": 3,
@@ -1636,7 +1636,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/623.png"
       },
       {
         "slotNo": 3,
@@ -1648,7 +1648,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/354.png"
       }
     ]
   },
@@ -1656,7 +1656,7 @@
     "quote": "我要把你們全部凍僵！",
     "orignialQuote": "You’re gonna be frozen in your tracks.",
     "category": "冰",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1670,7 +1670,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/027_f2.png"
       },
       {
         "slotNo": 1,
@@ -1682,7 +1682,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/037_f2.png"
       },
       {
         "slotNo": 1,
@@ -1695,7 +1695,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/220.png"
       },
       {
         "slotNo": 2,
@@ -1708,7 +1708,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/028_f2.png"
       },
       {
         "slotNo": 2,
@@ -1721,7 +1721,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/038_f2.png"
       },
       {
         "slotNo": 2,
@@ -1734,7 +1734,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/459.png"
       },
       {
         "slotNo": 3,
@@ -1747,7 +1747,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/131.png"
       },
       {
         "slotNo": 3,
@@ -1760,7 +1760,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/091.png"
       },
       {
         "slotNo": 3,
@@ -1773,7 +1773,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/460.png"
       }
     ]
   },
@@ -1781,7 +1781,7 @@
     "quote": "吼喔喔喔喔！怎樣，嚇到了吧！",
     "orignialQuote": "ROAR! … How’d that sound?",
     "category": "龍",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1794,7 +1794,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/147.png"
       },
       {
         "slotNo": 1,
@@ -1807,7 +1807,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/103_f2.png"
       },
       {
         "slotNo": 2,
@@ -1820,7 +1820,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/330.png"
       },
       {
         "slotNo": 2,
@@ -1833,7 +1833,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/103_f2.png"
       },
       {
         "slotNo": 3,
@@ -1845,7 +1845,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/148.png"
       },
       {
         "slotNo": 3,
@@ -1858,7 +1858,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/149.png"
       },
       {
         "slotNo": 3,
@@ -1871,7 +1871,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/330.png"
       }
     ]
   },
@@ -1879,7 +1879,7 @@
     "quote": "有光的地方，就會有影子！",
     "orignialQuote": "Wherever there is light, there is also shadow.",
     "category": "惡",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1893,7 +1893,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/088_f2.png"
       },
       {
         "slotNo": 1,
@@ -1906,7 +1906,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/019_f2.png"
       },
       {
         "slotNo": 2,
@@ -1918,7 +1918,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/089.png"
       },
       {
         "slotNo": 2,
@@ -1931,7 +1931,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/020_f2.png"
       },
       {
         "slotNo": 3,
@@ -1944,7 +1944,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/089_f2.png"
       }
     ]
   },
@@ -1952,7 +1952,7 @@
     "quote": "我的意志跟鋼鐵一樣強韌！",
     "orignialQuote": "You’re no match for my iron will!",
     "category": "鋼",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1966,7 +1966,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/304.png"
       },
       {
         "slotNo": 1,
@@ -1979,7 +1979,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/050_f2.png"
       },
       {
         "slotNo": 1,
@@ -1992,7 +1992,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/027_f2.png"
       },
       {
         "slotNo": 2,
@@ -2005,7 +2005,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/305.png"
       },
       {
         "slotNo": 2,
@@ -2018,7 +2018,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/027_f2.png"
       },
       {
         "slotNo": 3,
@@ -2031,7 +2031,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/306.png"
       },
       {
         "slotNo": 3,
@@ -2044,7 +2044,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/212.png"
       }
     ]
   },
@@ -2052,7 +2052,7 @@
     "quote": "看看我這可愛的寶可夢！",
     "orignialQuote": "Check out my cute Pokémon!",
     "category": "妖精",
-    "characterImageUrl": "",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2066,7 +2066,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/280.png"
       },
       {
         "slotNo": 1,
@@ -2078,7 +2078,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/209.png"
       },
       {
         "slotNo": 1,
@@ -2091,7 +2091,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/303.png"
       },
       {
         "slotNo": 2,
@@ -2104,7 +2104,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/281.png"
       },
       {
         "slotNo": 2,
@@ -2116,7 +2116,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/209.png"
       },
       {
         "slotNo": 3,
@@ -2129,7 +2129,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/281.png"
       },
       {
         "slotNo": 3,
@@ -2141,7 +2141,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/210.png"
       }
     ]
   }
