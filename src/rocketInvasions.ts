@@ -108,7 +108,7 @@ const getRocketInvasions = async () => {
       quote: translateDescription(orignialQuote),
       orignialQuote,
       category: categoryMapping(categoryRaw),
-      characterImageUrl: '', // FIXME: not implemented yet.
+      characterImageUrl: 'https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png', // FIXME: not implemented yet.
       isSpecial: false, // FIXME: not implemented yet.
       lineupPokemons,
     } as any);
