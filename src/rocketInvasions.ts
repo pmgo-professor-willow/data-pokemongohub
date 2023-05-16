@@ -74,8 +74,8 @@ const getRocketInvasions = async () => {
   for (const rocketInvasionItem of rocketInvasionItems) {
     const orignialQuote = rocketInvasionItem.querySelector('h2')?.rawText.trim() ?? '';
     const categoryRaw = rocketInvasionItem.querySelector('p span.type-badge')?.rawText.trim() ?? '';
-    const catchableInfo = rocketInvasionItem.querySelector('p strong')?.rawText.trim() ?? '';
-    console.log(catchableInfo);
+    // const catchableInfo = rocketInvasionItem.querySelector('p strong')?.rawText.trim() ?? '';
+    // console.log(catchableInfo);
 
     const lineupSlotItems = rocketInvasionItem.querySelectorAll('.hub-scrollable table tr td');
     const lineupPokemons = lineupSlotItems.reduce((all, lineupSlotItem, i) => {
@@ -85,11 +85,12 @@ const getRocketInvasions = async () => {
       lineupPokemonItems.forEach((lineupPokemonItem, j) => {
         const originalName = lineupPokemonItem.querySelector('.content .name')?.rawText.trim() ?? '';
         const pokemon = pokedex.getPokemonByFuzzyName(originalName);
-        const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('src') ?? '';
+        const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('data-lazy-src') ?? '';
 
         all.push({
           slotNo: i + 1,
           no: pokemon.no,
+          // name: pokemon.form ? `${pokemon.name} (${pokemon.form})` : pokemon.name,
           name: pokemon.name,
           originalName: originalName,
           types: pokemon.types,
