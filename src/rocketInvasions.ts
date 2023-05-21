@@ -53,6 +53,29 @@ const categoryMapping = (categoryTag: string) => {
   }
 };
 
+const characterImageUrlMapping = (characterName?: string) => {
+  const baseUrl = 'https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/';
+
+  switch (characterName) {
+    case 'Cliff':
+      return urlJoin(baseUrl, '/leader-cliff.png');
+    case 'Arlo':
+      return urlJoin(baseUrl, '/leader-arlo.png');
+    case 'Sierra':
+      return urlJoin(baseUrl, '/leader-sierra.png');
+    case 'Giovanni':
+      return urlJoin(baseUrl, '/boss-giovanni.png');
+    case 'James':
+      return urlJoin(baseUrl, '/leader-james.png');
+    case 'Jessie':
+      return urlJoin(baseUrl, '/leader-jessie.png');
+    default:
+      return _.random(1)
+        ? urlJoin(baseUrl, '/grunt-male.png')
+        : urlJoin(baseUrl, '/grunt-female.png');
+  }
+};
+
 const getGruntRocketInvasions = async () => {
   const rocketInvasionUrl = urlJoin(hostUrl, '/post/guide/team-go-rocket-battle-guide/');
   const browser = await puppeteer.launch({
@@ -109,7 +132,7 @@ const getGruntRocketInvasions = async () => {
       quote: translateDescription(orignialQuote),
       orignialQuote,
       category: categoryMapping(categoryRaw),
-      characterImageUrl: 'https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png', // FIXME: not implemented yet.
+      characterImageUrl: characterImageUrlMapping(),
       isSpecial: false,
       lineupPokemons,
     });
@@ -194,7 +217,7 @@ const getLeaderRocketInvasions = async (category: 'Leader' | 'Boss', leaderName:
     quote: '',
     orignialQuote: '',
     category: categoryMapping(`${category} ${leaderName}`),
-    characterImageUrl: 'https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png', // FIXME: not implemented yet.
+    characterImageUrl: characterImageUrlMapping(leaderName),
     isSpecial: true,
     lineupPokemons,
   });
