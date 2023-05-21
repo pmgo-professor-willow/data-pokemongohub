@@ -53,7 +53,7 @@ const categoryMapping = (categoryTag: string) => {
   }
 };
 
-const getRocketInvasions = async () => {
+const getGruntRocketInvasions = async () => {
   const rocketInvasionUrl = urlJoin(hostUrl, '/post/guide/team-go-rocket-battle-guide/');
   const browser = await puppeteer.launch({
     args: ['--no-sandbox'],
@@ -86,6 +86,7 @@ const getRocketInvasions = async () => {
         const originalName = lineupPokemonItem.querySelector('.content .name')?.rawText.trim() ?? '';
         const pokemon = pokedex.getPokemonByFuzzyName(originalName);
         const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('data-lazy-src') ?? '';
+        const shinyAvailable = lineupPokemonItem.classNames.includes('shiny');
 
         all.push({
           slotNo: i + 1,
@@ -95,7 +96,7 @@ const getRocketInvasions = async () => {
           originalName: originalName,
           types: pokemon.types,
           catchable: false, // FIXME: not implemented yet.
-          shinyAvailable: false, // FIXME: not implemented yet.
+          shinyAvailable,
           imageUrl,
         });
       });
@@ -109,9 +110,9 @@ const getRocketInvasions = async () => {
       orignialQuote,
       category: categoryMapping(categoryRaw),
       characterImageUrl: 'https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png', // FIXME: not implemented yet.
-      isSpecial: false, // FIXME: not implemented yet.
+      isSpecial: false,
       lineupPokemons,
-    } as any);
+    });
   }
 
   const sortedRocketInvasions = _.orderBy(rocketInvasions, (rocketInvasion) => {
@@ -120,6 +121,100 @@ const getRocketInvasions = async () => {
   }, ['asc']);
 
   return sortedRocketInvasions;
+};
+
+const getLeaderRocketInvasions = async (category: 'Leader' | 'Boss', leaderName: string) => {
+  const rocketInvasionUrl = urlJoin(hostUrl, `/post/guide/rocket-${category.toLocaleLowerCase()}-${leaderName.toLocaleLowerCase()}-counters/`);
+  const browser = await puppeteer.launch({
+    args: ['--no-sandbox'],
+    executablePath: process.env.PUPPETEER_EXEC_PATH, // set by docker container
+    headless: false,
+  });
+  const page = await browser.newPage();
+  await page.goto(rocketInvasionUrl, { waitUntil: 'networkidle0' });
+  const xml = await page.evaluate(() => document.querySelector('*')?.outerHTML!);
+  await page.waitForTimeout(1000);
+  await browser.close();
+
+  const root = parse(xml);
+  const tableItem = root.querySelector('.hub-scrollable table');
+
+  const rocketInvasions: RocketInvasion[] = [];
+  
+  const lineupSlotItems = tableItem.querySelectorAll('tr td');
+
+  const lineups = category === 'Leader'
+    ? [
+      // Slot 1
+      [lineupSlotItems[0]],
+      // Slot 2
+      [lineupSlotItems[1], lineupSlotItems[3], lineupSlotItems[5]],
+      // Slot 3
+      [lineupSlotItems[2], lineupSlotItems[4], lineupSlotItems[6]],
+    ]
+    : [
+      // Slot 1
+      [lineupSlotItems[0]],
+      // Slot 2
+      [lineupSlotItems[1], lineupSlotItems[3], lineupSlotItems[4]],
+      // Slot 3
+      [lineupSlotItems[2]],
+    ];
+
+  const lineupPokemons = lineups.reduce((all, lineupSlotItems, i) => {
+    lineupSlotItems.forEach((lineupSlotItem) => {
+      const lineupPokemonItems = lineupSlotItem.querySelectorAll('a');
+
+      lineupPokemonItems.forEach((lineupPokemonItem, j) => {
+        const slotNo = i + 1;
+        const originalName = lineupPokemonItem.querySelector('.content .name')?.rawText.trim() ?? '';
+        const pokemon = pokedex.getPokemonByFuzzyName(originalName);
+        const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('data-lazy-src') ?? '';
+        const catchable = (category === 'Leader' && slotNo === 1) || (category === 'Boss' && slotNo === 3);
+        const shinyAvailable = category === 'Leader' && lineupPokemonItem.classNames.includes('shiny');
+
+        all.push({
+          slotNo,
+          no: pokemon.no,
+          // name: pokemon.form ? `${pokemon.name} (${pokemon.form})` : pokemon.name,
+          name: pokemon.name,
+          originalName: originalName,
+          types: pokemon.types,
+          catchable,
+          shinyAvailable,
+          imageUrl,
+        });
+      });
+    });
+
+    return all;
+  }, [] as LineupPokemon[]);
+
+  rocketInvasions.push({
+    quote: '',
+    orignialQuote: '',
+    category: categoryMapping(`${category} ${leaderName}`),
+    characterImageUrl: 'https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png', // FIXME: not implemented yet.
+    isSpecial: true,
+    lineupPokemons,
+  });
+
+  const sortedRocketInvasions = _.orderBy(rocketInvasions, (rocketInvasion) => {
+    const matchedTag = tags.find((tag) => tag.displayText === rocketInvasion.category);
+    return matchedTag?.priority;
+  }, ['asc']);
+
+  return sortedRocketInvasions;
+};
+
+const getRocketInvasions = async () => {
+  return [
+    ...await getGruntRocketInvasions(),
+    ...await getLeaderRocketInvasions('Leader', 'Sierra'),
+    ...await getLeaderRocketInvasions('Leader', 'Cliff'),
+    ...await getLeaderRocketInvasions('Leader', 'Arlo'),
+    ...await getLeaderRocketInvasions('Boss', 'Giovanni'),
+  ];
 };
 
 export {
