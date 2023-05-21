@@ -2144,5 +2144,371 @@
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/210.png"
       }
     ]
+  },
+  {
+    "quote": "",
+    "orignialQuote": "",
+    "category": "幹部 希爾拉",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
+    "isSpecial": true,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 198,
+        "name": "黑暗鴉",
+        "originalName": "Murkrow (Shadow)",
+        "types": [
+          "惡",
+          "飛行"
+        ],
+        "catchable": true,
+        "shinyAvailable": true,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/198.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 208,
+        "name": "大鋼蛇",
+        "originalName": "Steelix (Shadow)",
+        "types": [
+          "鋼",
+          "地面"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/208.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 260,
+        "name": "巨沼怪",
+        "originalName": "Swampert (Shadow)",
+        "types": [
+          "水",
+          "地面"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/260.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 398,
+        "name": "姆克鷹",
+        "originalName": "Staraptor (Shadow)",
+        "types": [
+          "一般",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/398.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 229,
+        "name": "黑魯加",
+        "originalName": "Houndoom (Shadow)",
+        "types": [
+          "惡",
+          "火"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/229.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 149,
+        "name": "快龍",
+        "originalName": "Dragonite (Shadow)",
+        "types": [
+          "龍",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/149.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 6,
+        "name": "噴火龍",
+        "originalName": "Charizard (Shadow)",
+        "types": [
+          "火",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/006.png"
+      }
+    ]
+  },
+  {
+    "quote": "",
+    "orignialQuote": "",
+    "category": "幹部 克里夫",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
+    "isSpecial": true,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 246,
+        "name": "幼基拉斯",
+        "originalName": "Larvitar (Shadow)",
+        "types": [
+          "岩石",
+          "地面"
+        ],
+        "catchable": true,
+        "shinyAvailable": true,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/246.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 254,
+        "name": "蜥蜴王",
+        "originalName": "Sceptile (Shadow)",
+        "types": [
+          "草"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/254.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 230,
+        "name": "刺龍王",
+        "originalName": "Kingdra (Shadow)",
+        "types": [
+          "水",
+          "龍"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/230.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 227,
+        "name": "盔甲鳥",
+        "originalName": "Skarmory (Shadow)",
+        "types": [
+          "鋼",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/227.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 248,
+        "name": "班基拉斯",
+        "originalName": "Tyranitar (Shadow)",
+        "types": [
+          "岩石",
+          "惡"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/248.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 260,
+        "name": "巨沼怪",
+        "originalName": "Swampert (Shadow)",
+        "types": [
+          "水",
+          "地面"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/260.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 130,
+        "name": "暴鯉龍",
+        "originalName": "Gyarados (Shadow)",
+        "types": [
+          "水",
+          "飛行"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png"
+      }
+    ]
+  },
+  {
+    "quote": "",
+    "orignialQuote": "",
+    "category": "幹部 亞洛",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
+    "isSpecial": true,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 216,
+        "name": "熊寶寶",
+        "originalName": "Teddiursa (Shadow)",
+        "types": [
+          "一般"
+        ],
+        "catchable": true,
+        "shinyAvailable": true,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/216.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 97,
+        "name": "引夢貘人",
+        "originalName": "Hypno (Shadow)",
+        "types": [
+          "超能力"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/097.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 623,
+        "name": "泥偶巨人",
+        "originalName": "Golurk (Shadow)",
+        "types": [
+          "地面",
+          "幽靈"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/623.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 257,
+        "name": "火焰雞",
+        "originalName": "Blaziken (Shadow)",
+        "types": [
+          "火",
+          "格鬥"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/257.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 212,
+        "name": "巨鉗螳螂",
+        "originalName": "Scizor (Shadow)",
+        "types": [
+          "蟲",
+          "鋼"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/212.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 354,
+        "name": "詛咒娃娃",
+        "originalName": "Banette (Shadow)",
+        "types": [
+          "幽靈"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/354.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 405,
+        "name": "倫琴貓",
+        "originalName": "Luxray (Shadow)",
+        "types": [
+          "電"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/405.png"
+      }
+    ]
+  },
+  {
+    "quote": "",
+    "orignialQuote": "",
+    "category": "阪木老大",
+    "characterImageUrl": "https://nintendowire.com/wp-content/uploads/2019/07/Pokemon-GO-Hero-Medal-Blank.png",
+    "isSpecial": true,
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 53,
+        "name": "貓老大",
+        "originalName": "Persian (Shadow)",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/053.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 34,
+        "name": "尼多王",
+        "originalName": "Nidoking (Shadow)",
+        "types": [
+          "毒",
+          "地面"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/034.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 99,
+        "name": "巨鉗蟹",
+        "originalName": "Kingler (Shadow)",
+        "types": [
+          "水"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/099.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 230,
+        "name": "刺龍王",
+        "originalName": "Kingdra (Shadow)",
+        "types": [
+          "水",
+          "龍"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/230.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 378,
+        "name": "雷吉艾斯",
+        "originalName": "Regice (Shadow)",
+        "types": [
+          "冰"
+        ],
+        "catchable": true,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/378.png"
+      }
+    ]
   }
 ]
