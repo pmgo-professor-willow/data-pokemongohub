@@ -3,7 +3,7 @@
     "quote": "你以為一般屬性很弱嗎？",
     "orignialQuote": "Normal doesn’t mean weak.",
     "category": "一般",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -122,7 +122,7 @@
     "quote": "你知道寶可夢吐出的火焰有多熱嗎？",
     "orignialQuote": "Do you know how hot Pokémon fire breath can get?",
     "category": "火",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -898,7 +898,7 @@
     "quote": "好好嚐嚐著猛毒吧！",
     "orignialQuote": "Coiled and ready to strike!",
     "category": "毒",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1175,7 +1175,7 @@
     "quote": "使用看不見力量的超能力者是不是讓你很害怕啊？",
     "orignialQuote": "Are you scared of psychics that use unseen power?",
     "category": "超能力",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1284,7 +1284,7 @@
     "quote": "我可愛的昆蟲寶可夢，上吧！",
     "orignialQuote": "Go, my super bug Pokémon!",
     "category": "蟲",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
