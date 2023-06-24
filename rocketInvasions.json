@@ -15,7 +15,7 @@
           "一般"
         ],
         "catchable": false,
-        "shinyAvailable": false,
+        "shinyAvailable": true,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/052.png"
       },
       {
@@ -244,6 +244,30 @@
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/054.png"
       },
       {
+        "slotNo": 1,
+        "no": 320,
+        "name": "吼吼鯨",
+        "originalName": "Wailmer",
+        "types": [
+          "水"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/320.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 159,
+        "name": "藍鱷",
+        "originalName": "Croconaw",
+        "types": [
+          "水"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/159.png"
+      },
+      {
         "slotNo": 2,
         "no": 55,
         "name": "哥達鴨",
@@ -278,6 +302,18 @@
         "catchable": false,
         "shinyAvailable": false,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/055.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 321,
+        "name": "吼鯨王",
+        "originalName": "Wailord",
+        "types": [
+          "水"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/321.png"
       },
       {
         "slotNo": 4,
@@ -334,7 +370,7 @@
     "quote": "我們可是野火燒不盡，春風吹又生！",
     "orignialQuote": "Don’t tangle with us!",
     "category": "草",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -496,18 +532,6 @@
       },
       {
         "slotNo": 2,
-        "no": 125,
-        "name": "電擊獸",
-        "originalName": "Electabuzz",
-        "types": [
-          "電"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/125.png"
-      },
-      {
-        "slotNo": 2,
         "no": 74,
         "name": "小拳石",
         "originalName": "Geodude (Alola)",
@@ -561,7 +585,7 @@
     "quote": "這飽滿的肌肉可不是擺著好看的！",
     "orignialQuote": "This buff physique isn’t just for show!",
     "category": "格鬥",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -874,7 +898,7 @@
           "毒"
         ],
         "catchable": false,
-        "shinyAvailable": false,
+        "shinyAvailable": true,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/088.png"
       },
       {
@@ -1027,7 +1051,7 @@
     "quote": "讓你見識見識我華麗的飛行屬性寶可夢！",
     "orignialQuote": "Battle against my Flying-type Pokémon!",
     "category": "飛行",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1153,7 +1177,7 @@
     "quote": "使用看不見力量的超能力者是不是讓你很害怕啊？",
     "orignialQuote": "Are you scared of psychics that use unseen power?",
     "category": "超能力",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1274,7 +1298,7 @@
           "蟲"
         ],
         "catchable": false,
-        "shinyAvailable": false,
+        "shinyAvailable": true,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/204.png"
       },
       {
@@ -1387,7 +1411,7 @@
     "quote": "Let's rock and roll！",
     "orignialQuote": "Let’s rock and roll!",
     "category": "岩石",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1500,7 +1524,7 @@
     "quote": "科、科科、科科科！",
     "orignialQuote": "Ke…ke…ke…ke…ke…ke!",
     "category": "幽靈",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1600,6 +1624,19 @@
         "catchable": false,
         "shinyAvailable": false,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/354.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 623,
+        "name": "泥偶巨人",
+        "originalName": "Golurk",
+        "types": [
+          "地面",
+          "幽靈"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/623.png"
       }
     ]
   },
@@ -1607,7 +1644,7 @@
     "quote": "我要把你們全部凍僵！",
     "orignialQuote": "You’re gonna be frozen in your tracks.",
     "category": "冰",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1663,16 +1700,16 @@
       },
       {
         "slotNo": 2,
-        "no": 38,
-        "name": "九尾",
-        "originalName": "Ninetales (Alola)",
+        "no": 459,
+        "name": "雪笠怪",
+        "originalName": "Snover",
         "types": [
-          "冰",
-          "妖精"
+          "草",
+          "冰"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/038_f2.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/459.png"
       },
       {
         "slotNo": 3,
@@ -1699,6 +1736,19 @@
         "catchable": false,
         "shinyAvailable": false,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/091.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 460,
+        "name": "暴雪王",
+        "originalName": "Abomasnow",
+        "types": [
+          "草",
+          "冰"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/460.png"
       }
     ]
   },
@@ -1787,16 +1837,16 @@
       },
       {
         "slotNo": 3,
-        "no": 330,
-        "name": "沙漠蜻蜓",
-        "originalName": "Flygon",
+        "no": 444,
+        "name": "尖牙陸鯊",
+        "originalName": "Gabite",
         "types": [
-          "地面",
-          "龍"
+          "龍",
+          "地面"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/330.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/444.png"
       }
     ]
   },
@@ -1804,7 +1854,7 @@
     "quote": "有光的地方，就會有影子！",
     "orignialQuote": "Wherever there is light, there is also shadow.",
     "category": "惡",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1877,7 +1927,7 @@
     "quote": "我的意志跟鋼鐵一樣強韌！",
     "orignialQuote": "You’re no match for my iron will!",
     "category": "鋼",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2028,7 +2078,7 @@
           "妖精"
         ],
         "catchable": false,
-        "shinyAvailable": false,
+        "shinyAvailable": true,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/303.png"
       },
       {
