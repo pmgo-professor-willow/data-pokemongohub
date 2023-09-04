@@ -109,7 +109,7 @@
     "quote": "你知道寶可夢吐出的火焰有多熱嗎？",
     "orignialQuote": "Do you know how hot Pokémon fire breath can get?",
     "category": "火",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -216,7 +216,7 @@
     "quote": "這片海域很危險！",
     "orignialQuote": "These waters are treacherous",
     "category": "水",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -585,7 +585,7 @@
     "quote": "這飽滿的肌肉可不是擺著好看的！",
     "orignialQuote": "This buff physique isn’t just for show!",
     "category": "格鬥",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -678,7 +678,7 @@
     "quote": "你怎麼可能打得過我呢。\n你就等著打輸吧！\n只有贏家才能贏！",
     "orignialQuote": "Don’t bother – I’ve already won.&nbsp;\nGet ready to be defeated!\nWinning is for winners!",
     "category": "格鬥",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -968,7 +968,7 @@
     "quote": "我會把你重重摔到地面上！",
     "orignialQuote": "You’ll be defeated into the ground!",
     "category": "地面",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1286,7 +1286,7 @@
     "quote": "我可愛的昆蟲寶可夢，上吧！",
     "orignialQuote": "Go, my super bug Pokémon!",
     "category": "蟲",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2040,7 +2040,7 @@
     "quote": "看看我這可愛的寶可夢！",
     "orignialQuote": "Check out my cute Pokémon!",
     "category": "妖精",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
