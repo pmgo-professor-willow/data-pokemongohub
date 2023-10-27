@@ -96,7 +96,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "火",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -348,7 +348,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "草",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -458,7 +458,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "電",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -473,6 +473,30 @@
         "catchable": false,
         "shinyAvailable": false,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/179.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 522,
+        "name": "斑斑馬",
+        "originalName": "Blitzle (Shadow)",
+        "types": [
+          "電"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/522.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 403,
+        "name": "小貓怪",
+        "originalName": "Shinx (Shadow)",
+        "types": [
+          "電"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/403.png"
       },
       {
         "slotNo": 2,
@@ -529,7 +553,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "格鬥",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -583,6 +607,18 @@
       },
       {
         "slotNo": 2,
+        "no": 106,
+        "name": "飛腿郎",
+        "originalName": "Hitmonlee (Shadow)",
+        "types": [
+          "格鬥"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/106.png"
+      },
+      {
+        "slotNo": 2,
         "no": 107,
         "name": "快拳郎",
         "originalName": "Hitmonchan (Shadow)",
@@ -611,7 +647,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "格鬥",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -819,7 +855,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "毒",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1157,7 +1193,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "蟲",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1262,6 +1298,19 @@
         "catchable": false,
         "shinyAvailable": false,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/205.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 15,
+        "name": "大針蜂",
+        "originalName": "Beedrill (Shadow)",
+        "types": [
+          "蟲",
+          "毒"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/015.png"
       }
     ]
   },
@@ -1269,7 +1318,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "岩石",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1355,7 +1404,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "幽靈",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1576,7 +1625,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "龍",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1656,16 +1705,16 @@
       },
       {
         "slotNo": 3,
-        "no": 330,
-        "name": "沙漠蜻蜓",
-        "originalName": "Flygon (Shadow)",
+        "no": 444,
+        "name": "尖牙陸鯊",
+        "originalName": "Gabite (Shadow)",
         "types": [
-          "地面",
-          "龍"
+          "龍",
+          "地面"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/330.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/444.png"
       }
     ]
   },
@@ -1673,7 +1722,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "惡",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1833,7 +1882,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "妖精",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1889,15 +1938,15 @@
       },
       {
         "slotNo": 2,
-        "no": 210,
-        "name": "布魯皇",
-        "originalName": "Granbull (Shadow)",
+        "no": 209,
+        "name": "布魯",
+        "originalName": "Snubbull (Shadow)",
         "types": [
           "妖精"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/210.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/209.png"
       },
       {
         "slotNo": 3,
