@@ -3,7 +3,7 @@
     "quote": "你以為一般屬性很弱嗎？",
     "orignialQuote": "Normal doesn’t mean weak. – Normal-type Grunt",
     "category": "一般",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -231,7 +231,7 @@
     "quote": "這片海域很危險！",
     "orignialQuote": "These waters are treacherous – Water-type Grunt",
     "category": "水",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -389,7 +389,7 @@
     "quote": "我們可是野火燒不盡，春風吹又生！",
     "orignialQuote": "Don’t tangle with us! – Grass-type Grunt",
     "category": "草",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -499,7 +499,7 @@
     "quote": "你就等著被電吧！",
     "orignialQuote": "Get ready to be shocked! – Electric-type Grunt",
     "category": "電",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -608,7 +608,7 @@
     "quote": "這飽滿的肌肉可不是擺著好看的！",
     "orignialQuote": "This buff physique isn’t just for show! – Fighting-type Grunt",
     "category": "格鬥",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -728,7 +728,7 @@
     "quote": "好好嚐嚐著猛毒吧！",
     "orignialQuote": "Coiled and ready to strike! – Poison-type Grunt",
     "category": "毒",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -837,7 +837,7 @@
     "quote": "我會把你重重摔到地面上！",
     "orignialQuote": "You’ll be defeated into the ground! – Ground-type Grunt",
     "category": "地面",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -936,7 +936,7 @@
     "quote": "讓你見識見識我華麗的飛行屬性寶可夢！",
     "orignialQuote": "Battle against my Flying-type Pokémon! – Flying-type Grunt",
     "category": "飛行",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1421,7 +1421,7 @@
     "quote": "科、科科、科科科！",
     "orignialQuote": "Ke…ke…ke…ke…ke…ke! – Ghost-type Grunt",
     "category": "幽靈",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1891,7 +1891,7 @@
     "quote": "我的意志跟鋼鐵一樣強韌！",
     "orignialQuote": "You’re no match for my iron will! – Steel-type Grunt",
     "category": "鋼",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2139,7 +2139,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
