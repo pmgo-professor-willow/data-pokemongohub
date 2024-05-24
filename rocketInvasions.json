@@ -3,7 +3,7 @@
     "quote": "你以為一般屬性很弱嗎？",
     "orignialQuote": "Normal doesn’t mean weak. – Normal-type Grunt",
     "category": "一般",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -16,7 +16,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/431.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -28,7 +28,7 @@
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/216.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -40,7 +40,7 @@
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/234.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -52,7 +52,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/019.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -64,7 +64,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/052.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -76,7 +76,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/432.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -88,7 +88,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/217.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -101,7 +101,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/400.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -113,7 +113,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/234.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -121,7 +121,7 @@
     "quote": "你知道寶可夢吐出的火焰有多熱嗎？",
     "orignialQuote": "Do you know how hot Pokémon fire breath can get? – Fire-type Grunt",
     "category": "火",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -134,7 +134,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/554.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -146,7 +146,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/390.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -159,7 +159,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/229.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -172,7 +172,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/391.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -185,7 +185,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/229.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -198,7 +198,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/555.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -211,7 +211,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/392.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -219,7 +219,7 @@
     "quote": "這片海域很危險！",
     "orignialQuote": "These waters are treacherous – Water-type Grunt",
     "category": "水",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -232,7 +232,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/393.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -244,7 +244,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/158.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -257,7 +257,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/342.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -269,7 +269,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/394.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -282,7 +282,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/340.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -294,7 +294,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/321.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -307,7 +307,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/395.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 4,
@@ -319,7 +319,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/129.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 5,
@@ -331,7 +331,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/129.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 6,
@@ -343,7 +343,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/129.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 6,
@@ -356,7 +356,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -364,7 +364,7 @@
     "quote": "我們可是野火燒不盡，春風吹又生！",
     "orignialQuote": "Don’t tangle with us! – Grass-type Grunt",
     "category": "草",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -378,7 +378,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/459.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -390,7 +390,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/387.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -402,7 +402,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/388.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -415,7 +415,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/598.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -428,7 +428,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/332.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -441,7 +441,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/591.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -454,7 +454,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/389.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -476,7 +476,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/179.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -488,7 +488,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/522.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -501,7 +501,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/595.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -514,7 +514,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/074_f2.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -526,7 +526,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/100.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -538,7 +538,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/125.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -551,7 +551,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/596.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -563,7 +563,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/181.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -575,7 +575,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/405.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -597,7 +597,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/215.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -609,7 +609,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/296.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -621,7 +621,7 @@
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/066.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -633,7 +633,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/237.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -645,7 +645,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/106.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -657,7 +657,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/107.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -669,7 +669,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/068.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -682,7 +682,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/454.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -695,7 +695,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/392.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -703,7 +703,7 @@
     "quote": "好好嚐嚐著猛毒吧！",
     "orignialQuote": "Coiled and ready to strike! – Poison-type Grunt",
     "category": "毒",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -717,7 +717,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/215.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -730,7 +730,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/590.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -742,7 +742,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/030.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -754,7 +754,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/033.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -767,7 +767,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/454.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -779,7 +779,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/110.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -792,7 +792,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/591.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -800,7 +800,7 @@
     "quote": "我會把你重重摔到地面上！",
     "orignialQuote": "You’ll be defeated into the ground! – Ground-type Grunt",
     "category": "地面",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -814,7 +814,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/050_f2.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -827,7 +827,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/194.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -839,7 +839,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/529.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -852,7 +852,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/111.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -865,7 +865,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/340.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -878,7 +878,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/195.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -891,7 +891,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/389.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -899,7 +899,7 @@
     "quote": "讓你見識見識我華麗的飛行屬性寶可夢！",
     "orignialQuote": "Battle against my Flying-type Pokémon! – Flying-type Grunt",
     "category": "飛行",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -913,7 +913,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/016.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -926,7 +926,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/396.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -939,7 +939,7 @@
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/207.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -952,7 +952,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/397.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -965,7 +965,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/018.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -978,7 +978,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/149.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -991,7 +991,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/227.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -999,7 +999,7 @@
     "quote": "使用看不見力量的超能力者是不是讓你很害怕啊？",
     "orignialQuote": "Are you scared of psychics that use unseen power? – Psychic-type Grunt",
     "category": "超能力",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1012,7 +1012,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/574.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -1024,7 +1024,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/577.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1036,7 +1036,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/202.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1048,7 +1048,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/575.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1061,7 +1061,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/280.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1074,7 +1074,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/475.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1087,7 +1087,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/376.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1099,7 +1099,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/579.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -1107,7 +1107,7 @@
     "quote": "我可愛的昆蟲寶可夢，上吧！",
     "orignialQuote": "Go, my super bug Pokémon! – Bug-type Grunt",
     "category": "蟲",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1121,7 +1121,7 @@
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/123.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -1134,7 +1134,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/213.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -1147,7 +1147,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/557.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1160,7 +1160,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/013.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1173,7 +1173,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/451.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1186,7 +1186,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/213.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1199,7 +1199,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/212.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1212,7 +1212,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/205.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1225,7 +1225,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/015.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -1246,7 +1246,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/408.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -1259,7 +1259,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/410.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -1272,7 +1272,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/095.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1285,7 +1285,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/345.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1298,7 +1298,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/347.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1311,7 +1311,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/075.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1324,7 +1324,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/076.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1336,7 +1336,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/409.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1349,7 +1349,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/411.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -1370,7 +1370,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/200.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -1383,7 +1383,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/425.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -1396,7 +1396,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/622.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1408,7 +1408,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/356.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1420,7 +1420,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/354.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1433,7 +1433,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/622.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1446,7 +1446,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/478.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1459,7 +1459,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/094.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1472,7 +1472,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/105_f2.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -1493,7 +1493,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/361.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -1506,7 +1506,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/220.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1519,7 +1519,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/478.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1532,7 +1532,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/038_f2.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1544,7 +1544,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/362.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1556,7 +1556,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/362.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1569,7 +1569,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/478.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1582,7 +1582,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/460.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -1590,7 +1590,7 @@
     "quote": "吼喔喔喔喔！怎樣，嚇到了吧！",
     "orignialQuote": "ROAR! … How’d that sound? – Dragon-type Grunt",
     "category": "龍",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1603,7 +1603,7 @@
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/371.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -1616,7 +1616,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/443.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -1628,7 +1628,7 @@
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/147.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1640,7 +1640,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/148.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1653,7 +1653,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/444.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1666,7 +1666,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/103_f2.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1679,7 +1679,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/373.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1692,7 +1692,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/149.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1705,7 +1705,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/445.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -1713,7 +1713,7 @@
     "quote": "有光的地方，就會有影子！",
     "orignialQuote": "Wherever there is light, there is also shadow. – Dark-type Grunt",
     "category": "惡",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1727,7 +1727,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/228.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -1740,7 +1740,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/434.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -1753,7 +1753,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/019_f2.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1766,7 +1766,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/089_f2.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1779,7 +1779,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/020_f2.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1792,7 +1792,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/089_f2.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1805,7 +1805,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/435.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -1827,7 +1827,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/597.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -1840,7 +1840,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/227.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -1853,7 +1853,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/027_f2.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1866,7 +1866,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/305.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1879,7 +1879,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/375.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1892,7 +1892,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/227.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1905,7 +1905,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/028_f2.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1918,7 +1918,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/212.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -1931,7 +1931,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/395.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -1953,7 +1953,7 @@
         ],
         "catchable": false,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/303.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -1966,7 +1966,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/280.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 1,
@@ -1978,7 +1978,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/037_f2.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -1991,7 +1991,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/281.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -2003,7 +2003,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/209.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -2015,7 +2015,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/210.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -2028,7 +2028,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/038_f2.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -2041,7 +2041,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/282.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -2053,7 +2053,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/210.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -2061,7 +2061,7 @@
     "quote": "",
     "orignialQuote": "",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
@@ -2069,7 +2069,7 @@
     "quote": "Don’t bother – I’ve already won. Get ready to be defeated! Winning is for winners! – Difficult Grunts",
     "orignialQuote": "Don’t bother – I’ve already won. Get ready to be defeated! Winning is for winners! – Difficult Grunts",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2082,7 +2082,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -2094,7 +2094,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -2107,7 +2107,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/062.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -2120,7 +2120,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/282.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -2132,7 +2132,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -2145,7 +2145,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -2158,7 +2158,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/149.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 4,
@@ -2170,7 +2170,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/252.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 4,
@@ -2182,7 +2182,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/255.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 4,
@@ -2194,7 +2194,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/258.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 5,
@@ -2206,7 +2206,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/253.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 5,
@@ -2219,7 +2219,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/256.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 5,
@@ -2232,7 +2232,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/259.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 6,
@@ -2244,7 +2244,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/254.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 6,
@@ -2257,7 +2257,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/257.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 6,
@@ -2270,7 +2270,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/260.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -2278,7 +2278,7 @@
     "quote": "About Grunts",
     "orignialQuote": "About Grunts",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
@@ -2300,7 +2300,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/464.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 4,
@@ -2313,7 +2313,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/006.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 7,
@@ -2326,7 +2326,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/448.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -2347,7 +2347,7 @@
         ],
         "catchable": true,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/328.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -2360,7 +2360,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/302.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -2373,7 +2373,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/430.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -2385,7 +2385,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/350.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -2398,7 +2398,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/229.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -2411,7 +2411,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/071.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -2423,7 +2423,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/065.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -2444,7 +2444,7 @@
         ],
         "catchable": true,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/066.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -2457,7 +2457,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/230.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -2470,7 +2470,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/142.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -2483,7 +2483,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/475.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -2496,7 +2496,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/248.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -2509,7 +2509,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/346.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -2522,7 +2522,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/169.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -2543,7 +2543,7 @@
         ],
         "catchable": true,
         "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/331.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -2556,7 +2556,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/006.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -2568,7 +2568,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/097.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -2581,7 +2581,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/623.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -2594,7 +2594,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/149.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -2607,7 +2607,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/212.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -2620,7 +2620,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/373.png"
+        "imageUrl": ""
       }
     ]
   },
@@ -2641,7 +2641,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/053.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -2654,7 +2654,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/034.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -2667,7 +2667,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/464.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 2,
@@ -2680,7 +2680,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/445.png"
+        "imageUrl": ""
       },
       {
         "slotNo": 3,
@@ -2692,7 +2692,7 @@
         ],
         "catchable": true,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/383.png"
+        "imageUrl": ""
       }
     ]
   }
