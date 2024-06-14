@@ -90,25 +90,22 @@ const getGruntRocketInvasions = async () => {
   await browser.close();
 
   const root = parse(xml);
-  const rocketInvasionItems = root.querySelectorAll('.hub-colored-section');
+  const rocketInvasionItems = root.querySelectorAll('.hub-title-with-icon');
 
   const rocketInvasions: RocketInvasion[] = [];
   
   for (const rocketInvasionItem of rocketInvasionItems) {
-    const orignialQuote = rocketInvasionItem.querySelector('h2')?.rawText.trim() ?? '';
-    const categoryRaw = rocketInvasionItem.querySelector('p span.type-badge')?.rawText.trim() ?? '';
-    // const catchableInfo = rocketInvasionItem.querySelector('p strong')?.rawText.trim() ?? '';
-    // console.log(catchableInfo);
+    const orignialQuote = rocketInvasionItem.rawText.trim() ?? '';
+    const categoryRaw = rocketInvasionItem.parentNode.nextElementSibling.querySelector('span.type-badge')?.rawText.trim() ?? '';
 
-    const lineupSlotItems = rocketInvasionItem.querySelectorAll('.hub-scrollable table tr td');
+    const lineupSlotItems = rocketInvasionItem.parentNode.nextElementSibling.nextElementSibling.querySelectorAll('table tr td');
     const lineupPokemons = lineupSlotItems.reduce((all, lineupSlotItem, i) => {
-
       const lineupPokemonItems = lineupSlotItem.querySelectorAll('a');
 
       lineupPokemonItems.forEach((lineupPokemonItem, j) => {
         const originalName = lineupPokemonItem.querySelector('.content .name')?.rawText.trim() ?? '';
         const pokemon = pokedex.getPokemonByFuzzyName(originalName);
-        const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('data-lazy-src') ?? '';
+        const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('src') ?? '';
         const shinyAvailable = lineupPokemonItem.classNames.includes('shiny');
 
         all.push({
@@ -192,7 +189,7 @@ const getLeaderRocketInvasions = async (category: 'Leader' | 'Boss', leaderName:
         const slotNo = i + 1;
         const originalName = lineupPokemonItem.querySelector('.content .name')?.rawText.trim() ?? '';
         const pokemon = pokedex.getPokemonByFuzzyName(originalName);
-        const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('data-lazy-src') ?? '';
+        const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('src') ?? '';
         const catchable = (category === 'Leader' && slotNo === 1) || (category === 'Boss' && slotNo === 3);
         const shinyAvailable = category === 'Leader' && lineupPokemonItem.classNames.includes('shiny');
 
