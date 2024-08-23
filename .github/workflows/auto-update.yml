@@ -30,7 +30,7 @@ jobs:
           yarn install
 
       - name: Generate JSON files by Puppeteer
-        uses: mujo-code/puppeteer-headful@16.6.0
+        uses: mujo-code/puppeteer-headful@18.9.0
         env:
           CI: 'true'
         with:
