@@ -89,6 +89,27 @@ const getGruntRocketInvasions = async () => {
   });
   const page = await browser.newPage();
   await page.goto(rocketInvasionUrl, { waitUntil: 'networkidle0' });
+  
+  await page.evaluate(() => {
+    return new Promise((resolve) => {
+      const totalHeight = document.body.scrollHeight;
+      const distance = 100; // 每次滾動的距離
+      const delay = 30000 / (totalHeight / distance); // 每次滾動間的延遲時間
+
+      let scrolled = 0;
+
+      const timer = setInterval(() => {
+        window.scrollBy(0, distance);
+        scrolled += distance;
+
+        if (scrolled >= totalHeight) {
+          clearInterval(timer);
+          resolve(true);
+        }
+      }, delay);
+    });
+  });
+
   const xml = await page.evaluate(() => document.querySelector('*')?.outerHTML!);
   await page.waitForTimeout(1000);
   await browser.close();
@@ -118,6 +139,8 @@ const getGruntRocketInvasions = async () => {
           const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('src') ?? '';
           const shinyAvailable = lineupPokemonItem.classNames.includes('shiny');
   
+          console.log(imageUrl);
+
           all.push({
             slotNo: i + 1,
             no: pokemon.no,

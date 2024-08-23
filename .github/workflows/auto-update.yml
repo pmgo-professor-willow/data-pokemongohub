@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [16.x]
+        node-version: [18.x]
     steps:
       - uses: actions/checkout@v2
 
@@ -30,7 +30,7 @@ jobs:
           yarn install
 
       - name: Generate JSON files by Puppeteer
-        uses: mujo-code/puppeteer-headful@v2
+        uses: mujo-code/puppeteer-headful@16.6.0
         env:
           CI: 'true'
         with:
