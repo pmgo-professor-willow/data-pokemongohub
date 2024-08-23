@@ -3,7 +3,7 @@
     "quote": "你以為一般屬性很弱嗎？",
     "orignialQuote": "Normal doesn’t mean weak. – Normal-type Grunt",
     "category": "一般",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -120,7 +120,7 @@
     "quote": "你知道寶可夢吐出的火焰有多熱嗎？",
     "orignialQuote": "Do you know how hot Pokémon fire breath can get? – Fire-type Grunt",
     "category": "火",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -436,7 +436,7 @@
     "quote": "你就等著被電吧！",
     "orignialQuote": "Get ready to be shocked! – Electric-type Grunt",
     "category": "電",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -773,7 +773,7 @@
     "quote": "我會把你重重摔到地面上！",
     "orignialQuote": "You’ll be defeated into the ground! – Ground-type Grunt",
     "category": "地面",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
@@ -1241,7 +1241,7 @@
     "quote": "科、科科、科科科！",
     "orignialQuote": "Ke…ke…ke…ke…ke…ke! – Ghost-type Grunt",
     "category": "幽靈",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1599,7 +1599,7 @@
     "quote": "有光的地方，就會有影子！",
     "orignialQuote": "Wherever there is light, there is also shadow. – Dark-type Grunt",
     "category": "惡",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1626,7 +1626,7 @@
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/434.png"
       },
       {
         "slotNo": 1,
