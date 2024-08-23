@@ -89,12 +89,13 @@ const getGruntRocketInvasions = async () => {
   });
   const page = await browser.newPage();
   await page.goto(rocketInvasionUrl, { waitUntil: 'networkidle0' });
-  
+
+  // Scroll to the bottom of the page for downloading all the images.
   await page.evaluate(() => {
     return new Promise((resolve) => {
       const totalHeight = document.body.scrollHeight;
-      const distance = 100; // 每次滾動的距離
-      const delay = 30000 / (totalHeight / distance); // 每次滾動間的延遲時間
+      const distance = 100;
+      const delay = 30000 / (totalHeight / distance);
 
       let scrolled = 0;
 
@@ -221,6 +222,28 @@ const getLeaderRocketInvasions = async (category: 'Leader' | 'Boss', leaderName:
   });
   const page = await browser.newPage();
   await page.goto(rocketInvasionUrl, { waitUntil: 'networkidle0' });
+
+  // Scroll to the bottom of the page for downloading all the images.
+  await page.evaluate(() => {
+    return new Promise((resolve) => {
+      const totalHeight = document.body.scrollHeight;
+      const distance = 100;
+      const delay = 30000 / (totalHeight / distance);
+
+      let scrolled = 0;
+
+      const timer = setInterval(() => {
+        window.scrollBy(0, distance);
+        scrolled += distance;
+
+        if (scrolled >= totalHeight) {
+          clearInterval(timer);
+          resolve(true);
+        }
+      }, delay);
+    });
+  });
+
   const xml = await page.evaluate(() => document.querySelector('*')?.outerHTML!);
   await page.waitForTimeout(1000);
   await browser.close();
@@ -230,7 +253,7 @@ const getLeaderRocketInvasions = async (category: 'Leader' | 'Boss', leaderName:
 
   const rocketInvasions: RocketInvasion[] = [];
   
-  const lineupSlotItems = tableItem.querySelectorAll('tr td');
+  const lineupSlotItems = tableItem.querySelectorAll('tr td .hub-flex-list,.hub-pokemon-list li');
 
   const lineups = category === 'Leader'
     ? [
@@ -249,7 +272,7 @@ const getLeaderRocketInvasions = async (category: 'Leader' | 'Boss', leaderName:
       // Slot 3
       [lineupSlotItems[2]],
     ];
-
+  
   const lineupPokemons = lineups.reduce((all, lineupSlotItems, i) => {
     lineupSlotItems.forEach((lineupSlotItem) => {
       const lineupPokemonItems = lineupSlotItem.querySelectorAll('a');
@@ -299,10 +322,10 @@ const getLeaderRocketInvasions = async (category: 'Leader' | 'Boss', leaderName:
 const getRocketInvasions = async () => {
   return [
     ...await getGruntRocketInvasions(),
-    // ...await getLeaderRocketInvasions('Leader', 'Sierra'),
-    // ...await getLeaderRocketInvasions('Leader', 'Cliff'),
-    // ...await getLeaderRocketInvasions('Leader', 'Arlo'),
-    // ...await getLeaderRocketInvasions('Boss', 'Giovanni'),
+    ...await getLeaderRocketInvasions('Leader', 'Sierra'),
+    ...await getLeaderRocketInvasions('Leader', 'Cliff'),
+    ...await getLeaderRocketInvasions('Leader', 'Arlo'),
+    ...await getLeaderRocketInvasions('Boss', 'Giovanni'),
   ];
 };
 
