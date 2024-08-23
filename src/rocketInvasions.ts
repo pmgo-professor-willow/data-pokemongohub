@@ -53,7 +53,7 @@ const categoryMapping = (categoryTag: string) => {
   }
 };
 
-const characterImageUrlMapping = (characterName?: string) => {
+const characterImageUrlMapping = (characterName: string) => {
   const baseUrl = 'https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/';
 
   switch (characterName) {
@@ -69,6 +69,10 @@ const characterImageUrlMapping = (characterName?: string) => {
       return urlJoin(baseUrl, '/leader-james.png');
     case 'Jessie':
       return urlJoin(baseUrl, '/leader-jessie.png');
+    case 'Male Grunt':
+      return urlJoin(baseUrl, '/grunt-male.png');
+    case 'Female Grunt':
+      return urlJoin(baseUrl, '/grunt-female.png');
     default:
       return _.random(1)
         ? urlJoin(baseUrl, '/grunt-male.png')
@@ -98,41 +102,83 @@ const getGruntRocketInvasions = async () => {
     const orignialQuote = rocketInvasionItem.rawText.trim() ?? '';
     const categoryRaw = rocketInvasionItem.parentNode.nextElementSibling.querySelector('span.type-badge')?.rawText.trim() ?? '';
 
-    const lineupSlotItems = rocketInvasionItem.parentNode.nextElementSibling.nextElementSibling.querySelectorAll('table tr td');
-    const lineupPokemons = lineupSlotItems.reduce((all, lineupSlotItem, i) => {
-      const lineupPokemonItems = lineupSlotItem.querySelectorAll('a');
+    let characterName: 'Grunt' | 'Male Grunt' | 'Female Grunt' = 'Grunt';
 
-      lineupPokemonItems.forEach((lineupPokemonItem, j) => {
-        const originalName = lineupPokemonItem.querySelector('.content .name')?.rawText.trim() ?? '';
-        const pokemon = pokedex.getPokemonByFuzzyName(originalName);
-        const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('src') ?? '';
-        const shinyAvailable = lineupPokemonItem.classNames.includes('shiny');
+    // Check this one is `h2` element
+    const isMutipleLineups = rocketInvasionItem.parentNode.nextElementSibling.nextElementSibling.tagName === 'H2';
 
-        all.push({
-          slotNo: i + 1,
-          no: pokemon.no,
-          // name: pokemon.form ? `${pokemon.name} (${pokemon.form})` : pokemon.name,
-          name: pokemon.name,
-          originalName: originalName,
-          types: pokemon.types,
-          catchable: false, // FIXME: not implemented yet.
-          shinyAvailable,
-          imageUrl,
+    if (!isMutipleLineups) {
+      const lineupSlotItems = rocketInvasionItem.parentNode.nextElementSibling.nextElementSibling.querySelectorAll('table tr td');
+      const lineupPokemons = lineupSlotItems.reduce<LineupPokemon[]>((all, lineupSlotItem, i) => {
+        const lineupPokemonItems = lineupSlotItem.querySelectorAll('a');
+  
+        lineupPokemonItems.forEach((lineupPokemonItem, j) => {
+          const originalName = lineupPokemonItem.querySelector('.content .name')?.rawText.trim() ?? '';
+          const pokemon = pokedex.getPokemonByFuzzyName(originalName);
+          const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('src') ?? '';
+          const shinyAvailable = lineupPokemonItem.classNames.includes('shiny');
+  
+          all.push({
+            slotNo: i + 1,
+            no: pokemon.no,
+            // name: pokemon.form ? `${pokemon.name} (${pokemon.form})` : pokemon.name,
+            name: pokemon.name,
+            originalName: originalName,
+            types: pokemon.types,
+            catchable: false, // FIXME: not implemented yet.
+            shinyAvailable,
+            imageUrl,
+          });
         });
+  
+        return all;
+      }, []);
+
+      rocketInvasions.push({
+        quote: translateDescription(orignialQuote),
+        orignialQuote,
+        category: categoryMapping(categoryRaw),
+        characterImageUrl: characterImageUrlMapping(characterName),
+        isSpecial: false,
+        lineupPokemons,
+      });
+    } else {
+      const lineupSlotItems = rocketInvasionItem.parentNode.nextElementSibling.nextElementSibling.nextElementSibling.querySelectorAll('table tr td');
+      const lineupPokemons = lineupSlotItems.reduce<LineupPokemon[]>((all, lineupSlotItem, i) => {
+        const lineupPokemonItems = lineupSlotItem.querySelectorAll('a');
+  
+        lineupPokemonItems.forEach((lineupPokemonItem, j) => {
+          const originalName = lineupPokemonItem.querySelector('.content .name')?.rawText.trim() ?? '';
+          const pokemon = pokedex.getPokemonByFuzzyName(originalName);
+          const imageUrl = lineupPokemonItem.querySelector('img')?.getAttribute('src') ?? '';
+          const shinyAvailable = lineupPokemonItem.classNames.includes('shiny');
+  
+          all.push({
+            slotNo: i + 1,
+            no: pokemon.no,
+            // name: pokemon.form ? `${pokemon.name} (${pokemon.form})` : pokemon.name,
+            name: pokemon.name,
+            originalName: originalName,
+            types: pokemon.types,
+            catchable: false, // FIXME: not implemented yet.
+            shinyAvailable,
+            imageUrl,
+          });
+        });
+  
+        return all;
+      }, []);
+
+      rocketInvasions.push({
+        quote: translateDescription(orignialQuote),
+        orignialQuote,
+        category: categoryMapping(categoryRaw),
+        characterImageUrl: characterImageUrlMapping(characterName),
+        isSpecial: false,
+        lineupPokemons,
       });
 
-      return all;
-    }, [] as LineupPokemon[]);
-
-
-    rocketInvasions.push({
-      quote: translateDescription(orignialQuote),
-      orignialQuote,
-      category: categoryMapping(categoryRaw),
-      characterImageUrl: characterImageUrlMapping(),
-      isSpecial: false,
-      lineupPokemons,
-    });
+    }
   }
 
   const sortedRocketInvasions = _.orderBy(rocketInvasions, (rocketInvasion) => {
@@ -230,10 +276,10 @@ const getLeaderRocketInvasions = async (category: 'Leader' | 'Boss', leaderName:
 const getRocketInvasions = async () => {
   return [
     ...await getGruntRocketInvasions(),
-    ...await getLeaderRocketInvasions('Leader', 'Sierra'),
-    ...await getLeaderRocketInvasions('Leader', 'Cliff'),
-    ...await getLeaderRocketInvasions('Leader', 'Arlo'),
-    ...await getLeaderRocketInvasions('Boss', 'Giovanni'),
+    // ...await getLeaderRocketInvasions('Leader', 'Sierra'),
+    // ...await getLeaderRocketInvasions('Leader', 'Cliff'),
+    // ...await getLeaderRocketInvasions('Leader', 'Arlo'),
+    // ...await getLeaderRocketInvasions('Boss', 'Giovanni'),
   ];
 };
 
