@@ -3,15 +3,124 @@
     "quote": "Normal-type Grunt",
     "orignialQuote": "Normal-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
-    "lineupPokemons": []
+    "lineupPokemons": [
+      {
+        "slotNo": 1,
+        "no": 431,
+        "name": "魅力喵",
+        "originalName": "Glameow",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/431.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 399,
+        "name": "大牙狸",
+        "originalName": "Bidoof",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/399.png"
+      },
+      {
+        "slotNo": 1,
+        "no": 234,
+        "name": "驚角鹿",
+        "originalName": "Stantler",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": true,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/234.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 19,
+        "name": "小拉達",
+        "originalName": "Rattata",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/019.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 52,
+        "name": "喵喵",
+        "originalName": "Meowth",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": true,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/052.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 432,
+        "name": "東施喵",
+        "originalName": "Purugly",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/432.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 217,
+        "name": "圈圈熊",
+        "originalName": "Ursaring",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/217.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 295,
+        "name": "爆音怪",
+        "originalName": "Exploud",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/295.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 234,
+        "name": "驚角鹿",
+        "originalName": "Stantler",
+        "types": [
+          "一般"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/234.png"
+      }
+    ]
   },
   {
     "quote": "Flying-type Grunt",
     "orignialQuote": "Flying-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -691,7 +800,7 @@
     "quote": "Ground-Type Grunt",
     "orignialQuote": "Ground-Type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -986,7 +1095,7 @@
     "quote": "Ice-type Grunt",
     "orignialQuote": "Ice-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1290,7 +1399,7 @@
     "quote": "Fairy-type Grunt",
     "orignialQuote": "Fairy-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1530,7 +1639,7 @@
     "quote": "Ghost-type Grunt",
     "orignialQuote": "Ghost-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1641,7 +1750,7 @@
     "quote": "Dragon-Type Grunt",
     "orignialQuote": "Dragon-Type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1944,7 +2053,7 @@
     "quote": "Detailed GO Rocket Grunt Mechanics",
     "orignialQuote": "Detailed GO Rocket Grunt Mechanics",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
