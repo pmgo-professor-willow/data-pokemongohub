@@ -426,7 +426,7 @@
     "quote": "Fire-type Grunt",
     "orignialQuote": "Fire-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -547,7 +547,7 @@
     "quote": "Water-type Grunt",
     "orignialQuote": "Water-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
@@ -676,7 +676,7 @@
     "quote": "Rock-Type Grunt",
     "orignialQuote": "Rock-Type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1520,7 +1520,7 @@
     "quote": "Fighting-type Grunt",
     "orignialQuote": "Fighting-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1848,7 +1848,7 @@
     "quote": "Very Difficult Grunts",
     "orignialQuote": "Very Difficult Grunts",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2273,28 +2273,28 @@
       },
       {
         "slotNo": 2,
-        "no": 97,
-        "name": "引夢貘人",
-        "originalName": "Hypno (Shadow)",
+        "no": 80,
+        "name": "呆殼獸",
+        "originalName": "Slowbro (Shadow)",
         "types": [
+          "水",
           "超能力"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/097.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/080.png"
       },
       {
         "slotNo": 2,
-        "no": 130,
-        "name": "暴鯉龍",
-        "originalName": "Gyarados (Shadow)",
+        "no": 51,
+        "name": "三地鼠",
+        "originalName": "Dugtrio (Shadow)",
         "types": [
-          "水",
-          "飛行"
+          "地面"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/051.png"
       },
       {
         "slotNo": 2,
@@ -2311,28 +2311,16 @@
       },
       {
         "slotNo": 3,
-        "no": 6,
-        "name": "噴火龍",
-        "originalName": "Charizard (Shadow)",
+        "no": 130,
+        "name": "暴鯉龍",
+        "originalName": "Gyarados (Shadow)",
         "types": [
-          "火",
+          "水",
           "飛行"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/006.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 143,
-        "name": "卡比獸",
-        "originalName": "Snorlax (Shadow)",
-        "types": [
-          "一般"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png"
       },
       {
         "slotNo": 3,
@@ -2346,6 +2334,19 @@
         "catchable": false,
         "shinyAvailable": false,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/212.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 594,
+        "name": "保母曼波",
+        "originalName": "Muk (Alola Shadow)",
+        "types": [
+          "毒",
+          "惡"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/089_f2.png"
       }
     ]
   },
