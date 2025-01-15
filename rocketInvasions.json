@@ -120,7 +120,7 @@
     "quote": "Flying-type Grunt",
     "orignialQuote": "Flying-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -330,7 +330,7 @@
     "quote": "Grass-type Grunt",
     "orignialQuote": "Grass-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1034,7 +1034,7 @@
     "quote": "Steel-type Grunt",
     "orignialQuote": "Steel-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1520,7 +1520,7 @@
     "quote": "Fighting-type Grunt",
     "orignialQuote": "Fighting-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1639,7 +1639,7 @@
     "quote": "Ghost-type Grunt",
     "orignialQuote": "Ghost-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1848,7 +1848,7 @@
     "quote": "Very Difficult Grunts",
     "orignialQuote": "Very Difficult Grunts",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2053,7 +2053,7 @@
     "quote": "Detailed GO Rocket Grunt Mechanics",
     "orignialQuote": "Detailed GO Rocket Grunt Mechanics",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
@@ -2091,42 +2091,41 @@
       },
       {
         "slotNo": 2,
-        "no": 302,
-        "name": "勾魂眼",
-        "originalName": "Sableye (Shadow)",
+        "no": 598,
+        "name": "堅果啞鈴",
+        "originalName": "Ferrothorn (Shadow)",
         "types": [
-          "惡",
-          "幽靈"
+          "草",
+          "鋼"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/302.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/598.png"
       },
       {
         "slotNo": 2,
-        "no": 229,
-        "name": "黑魯加",
-        "originalName": "Houndoom (Shadow)",
+        "no": 452,
+        "name": "龍王蠍",
+        "originalName": "Drapion (Shadow)",
         "types": [
-          "惡",
+          "毒",
+          "惡"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/452.png"
+      },
+      {
+        "slotNo": 3,
+        "no": 38,
+        "name": "九尾",
+        "originalName": "Ninetales (Shadow)",
+        "types": [
           "火"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/229.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 208,
-        "name": "大鋼蛇",
-        "originalName": "Steelix (Shadow)",
-        "types": [
-          "鋼",
-          "地面"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/208.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/038.png"
       },
       {
         "slotNo": 3,
@@ -2143,16 +2142,16 @@
       },
       {
         "slotNo": 3,
-        "no": 282,
-        "name": "沙奈朵",
-        "originalName": "Gardevoir (Shadow)",
+        "no": 229,
+        "name": "黑魯加",
+        "originalName": "Houndoom (Shadow)",
         "types": [
-          "超能力",
-          "妖精"
+          "惡",
+          "火"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/282.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/229.png"
       }
     ]
   },
