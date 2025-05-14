@@ -394,7 +394,7 @@
     "quote": "Normal-type Grunt",
     "orignialQuote": "Normal-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -655,16 +655,16 @@
       },
       {
         "slotNo": 1,
-        "no": 323,
-        "name": "噴火駝",
-        "originalName": "Camerupt",
+        "no": 322,
+        "name": "呆火駝",
+        "originalName": "Numel",
         "types": [
           "火",
           "地面"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/323.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/322.png"
       },
       {
         "slotNo": 1,
@@ -769,7 +769,7 @@
     "quote": "Grass-type Grunt",
     "orignialQuote": "Grass-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -891,7 +891,7 @@
     "quote": "Electric-type Grunt",
     "orignialQuote": "Electric-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1017,16 +1017,16 @@
     "lineupPokemons": [
       {
         "slotNo": 1,
-        "no": 221,
-        "name": "長毛豬",
-        "originalName": "Piloswine",
+        "no": 220,
+        "name": "小山豬",
+        "originalName": "Swinub",
         "types": [
           "冰",
           "地面"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/221.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/220.png"
       },
       {
         "slotNo": 1,
@@ -1488,7 +1488,7 @@
     "quote": "Psychic-type Grunt",
     "orignialQuote": "Psychic-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1597,7 +1597,7 @@
     "quote": "Bug-type Grunt",
     "orignialQuote": "Bug-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1720,7 +1720,7 @@
     "quote": "Rock-Type Grunt",
     "orignialQuote": "Rock-Type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1844,7 +1844,7 @@
     "quote": "Ghost-type Grunt",
     "orignialQuote": "Ghost-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1968,7 +1968,7 @@
     "quote": "Dragon-Type Grunt",
     "orignialQuote": "Dragon-Type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2091,7 +2091,7 @@
     "quote": "Dark-type Grunt",
     "orignialQuote": "Dark-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2303,7 +2303,7 @@
     "quote": "Fairy-type Grunt",
     "orignialQuote": "Fairy-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2333,16 +2333,15 @@
       },
       {
         "slotNo": 1,
-        "no": 281,
-        "name": "奇魯莉安",
-        "originalName": "Kirlia",
+        "no": 37,
+        "name": "六尾",
+        "originalName": "Alola Vulpix",
         "types": [
-          "超能力",
-          "妖精"
+          "冰"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/281.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/037_f2.png"
       },
       {
         "slotNo": 2,
@@ -2368,6 +2367,19 @@
         "catchable": false,
         "shinyAvailable": false,
         "imageUrl": "https://db.pokemongohub.net/images/official/detail/110_galar.png"
+      },
+      {
+        "slotNo": 2,
+        "no": 281,
+        "name": "奇魯莉安",
+        "originalName": "Kirlia",
+        "types": [
+          "超能力",
+          "妖精"
+        ],
+        "catchable": false,
+        "shinyAvailable": false,
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/281.png"
       },
       {
         "slotNo": 3,
