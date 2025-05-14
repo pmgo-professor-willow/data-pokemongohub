@@ -3,7 +3,7 @@
     "quote": "Rocket Leader Lineups",
     "orignialQuote": "Rocket Leader Lineups",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -394,7 +394,7 @@
     "quote": "Normal-type Grunt",
     "orignialQuote": "Normal-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -638,7 +638,7 @@
     "quote": "Fire-type Grunt",
     "orignialQuote": "Fire-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -891,7 +891,7 @@
     "quote": "Electric-type Grunt",
     "orignialQuote": "Electric-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1256,7 +1256,7 @@
     "quote": "Poison-type Grunt",
     "orignialQuote": "Poison-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1488,7 +1488,7 @@
     "quote": "Psychic-type Grunt",
     "orignialQuote": "Psychic-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1968,7 +1968,7 @@
     "quote": "Dragon-Type Grunt",
     "orignialQuote": "Dragon-Type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2091,7 +2091,7 @@
     "quote": "Dark-type Grunt",
     "orignialQuote": "Dark-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2190,7 +2190,7 @@
     "quote": "Steel-type Grunt",
     "orignialQuote": "Steel-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2303,7 +2303,7 @@
     "quote": "Fairy-type Grunt",
     "orignialQuote": "Fairy-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -2720,27 +2720,29 @@
       },
       {
         "slotNo": 2,
-        "no": 67,
-        "name": "豪力",
-        "originalName": "Shadow Machoke",
+        "no": 227,
+        "name": "盔甲鳥",
+        "originalName": "Shadow Skarmory",
         "types": [
-          "格鬥"
+          "鋼",
+          "飛行"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/067.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/227.png"
       },
       {
         "slotNo": 2,
-        "no": 105,
-        "name": "嘎啦嘎啦",
-        "originalName": "Shadow Marowak",
+        "no": 979,
+        "name": "棄世猴",
+        "originalName": "Shadow Annihilape",
         "types": [
-          "地面"
+          "格鬥",
+          "幽靈"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/105.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/979.png"
       },
       {
         "slotNo": 2,
@@ -2757,16 +2759,16 @@
       },
       {
         "slotNo": 3,
-        "no": 979,
-        "name": "棄世猴",
-        "originalName": "Shadow Annihilape",
+        "no": 430,
+        "name": "烏鴉頭頭",
+        "originalName": "Shadow Honchkrow",
         "types": [
-          "格鬥",
-          "幽靈"
+          "惡",
+          "飛行"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/979.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/430.png"
       },
       {
         "slotNo": 3,
@@ -2782,16 +2784,15 @@
       },
       {
         "slotNo": 3,
-        "no": 169,
-        "name": "叉字蝠",
-        "originalName": "Shadow Crobat",
+        "no": 405,
+        "name": "倫琴貓",
+        "originalName": "Shadow Luxray",
         "types": [
-          "毒",
-          "飛行"
+          "電"
         ],
         "catchable": false,
         "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/169.png"
+        "imageUrl": "https://db.pokemongohub.net/images/official/detail/405.png"
       }
     ]
   },
