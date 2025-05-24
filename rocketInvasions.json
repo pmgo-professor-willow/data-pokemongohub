@@ -394,7 +394,7 @@
     "quote": "Normal-type Grunt",
     "orignialQuote": "Normal-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -512,7 +512,7 @@
     "quote": "Flying-type Grunt",
     "orignialQuote": "Flying-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -769,129 +769,15 @@
     "quote": "Grass-type Grunt",
     "orignialQuote": "Grass-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
-    "lineupPokemons": [
-      {
-        "slotNo": 1,
-        "no": 495,
-        "name": "藤藤蛇",
-        "originalName": "Snivy",
-        "types": [
-          "草"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/495.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 187,
-        "name": "毽子草",
-        "originalName": "Hoppip",
-        "types": [
-          "草",
-          "飛行"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/187.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 273,
-        "name": "橡實果",
-        "originalName": "Seedot",
-        "types": [
-          "草"
-        ],
-        "catchable": false,
-        "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/273.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 496,
-        "name": "青藤蛇",
-        "originalName": "Servine",
-        "types": [
-          "草"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/496.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 598,
-        "name": "堅果啞鈴",
-        "originalName": "Ferrothorn",
-        "types": [
-          "草",
-          "鋼"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/598.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 345,
-        "name": "觸手百合",
-        "originalName": "Lileep",
-        "types": [
-          "岩石",
-          "草"
-        ],
-        "catchable": false,
-        "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/345.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 497,
-        "name": "君主蛇",
-        "originalName": "Serperior",
-        "types": [
-          "草"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/497.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 332,
-        "name": "夢歌仙人掌",
-        "originalName": "Cacturne",
-        "types": [
-          "草",
-          "惡"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/332.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 45,
-        "name": "霸王花",
-        "originalName": "Vileplume",
-        "types": [
-          "草",
-          "毒"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/045.png"
-      }
-    ]
+    "lineupPokemons": []
   },
   {
     "quote": "Electric-type Grunt",
     "orignialQuote": "Electric-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1012,126 +898,9 @@
     "quote": "Ice-type Grunt",
     "orignialQuote": "Ice-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
-    "lineupPokemons": [
-      {
-        "slotNo": 1,
-        "no": 220,
-        "name": "小山豬",
-        "originalName": "Swinub",
-        "types": [
-          "冰",
-          "地面"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/220.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 698,
-        "name": "冰雪龍",
-        "originalName": "Amaura",
-        "types": [
-          "岩石",
-          "冰"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/698.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 215,
-        "name": "狃拉",
-        "originalName": "Sneasel",
-        "types": [
-          "惡",
-          "冰"
-        ],
-        "catchable": false,
-        "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/215.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 478,
-        "name": "雪妖女",
-        "originalName": "Froslass",
-        "types": [
-          "冰",
-          "幽靈"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/478.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 38,
-        "name": "九尾",
-        "originalName": "Alola Ninetales",
-        "types": [
-          "冰",
-          "妖精"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/038_f2.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 364,
-        "name": "海魔獅",
-        "originalName": "Sealeo",
-        "types": [
-          "冰",
-          "水"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/364.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 478,
-        "name": "雪妖女",
-        "originalName": "Froslass",
-        "types": [
-          "冰",
-          "幽靈"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/478.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 699,
-        "name": "冰雪巨龍",
-        "originalName": "Aurorus",
-        "types": [
-          "岩石",
-          "冰"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/699.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 362,
-        "name": "冰鬼護",
-        "originalName": "Glalie",
-        "types": [
-          "冰"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/362.png"
-      }
-    ]
+    "lineupPokemons": []
   },
   {
     "quote": "Fighting-type Grunt",
@@ -1256,110 +1025,9 @@
     "quote": "Poison-type Grunt",
     "orignialQuote": "Poison-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
-    "lineupPokemons": [
-      {
-        "slotNo": 1,
-        "no": 568,
-        "name": "破破袋",
-        "originalName": "Trubbish",
-        "types": [
-          "毒"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/568.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 72,
-        "name": "瑪瑙水母",
-        "originalName": "Tentacool",
-        "types": [
-          "水",
-          "毒"
-        ],
-        "catchable": false,
-        "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/072.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 451,
-        "name": "鉗尾蠍",
-        "originalName": "Skorupi",
-        "types": [
-          "毒",
-          "蟲"
-        ],
-        "catchable": false,
-        "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/451.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 30,
-        "name": "尼多娜",
-        "originalName": "Nidorina",
-        "types": [
-          "毒"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/030.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 33,
-        "name": "尼多力諾",
-        "originalName": "Nidorino",
-        "types": [
-          "毒"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/033.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 110,
-        "name": "雙彈瓦斯",
-        "originalName": "Weezing",
-        "types": [
-          "毒"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/110.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 454,
-        "name": "毒骷蛙",
-        "originalName": "Toxicroak",
-        "types": [
-          "毒",
-          "格鬥"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/454.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 591,
-        "name": "敗露球菇",
-        "originalName": "Amoonguss",
-        "types": [
-          "草",
-          "毒"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/591.png"
-      }
-    ]
+    "lineupPokemons": []
   },
   {
     "quote": "Ground-Type Grunt",
@@ -1488,116 +1156,15 @@
     "quote": "Psychic-type Grunt",
     "orignialQuote": "Psychic-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
-    "lineupPokemons": [
-      {
-        "slotNo": 1,
-        "no": 686,
-        "name": "好啦魷",
-        "originalName": "Inkay",
-        "types": [
-          "惡",
-          "超能力"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/686.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 280,
-        "name": "拉魯拉絲",
-        "originalName": "Ralts",
-        "types": [
-          "超能力",
-          "妖精"
-        ],
-        "catchable": false,
-        "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/280.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 96,
-        "name": "催眠貘",
-        "originalName": "Drowzee",
-        "types": [
-          "超能力"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/096.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 202,
-        "name": "果然翁",
-        "originalName": "Wobbuffet",
-        "types": [
-          "超能力"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/202.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 578,
-        "name": "雙卵細胞球",
-        "originalName": "Duosion",
-        "types": [
-          "超能力"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/578.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 687,
-        "name": "烏賊王",
-        "originalName": "Malamar",
-        "types": [
-          "惡",
-          "超能力"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/687.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 475,
-        "name": "艾路雷朵",
-        "originalName": "Gallade",
-        "types": [
-          "超能力",
-          "格鬥"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/475.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 579,
-        "name": "人造細胞卵",
-        "originalName": "Reuniclus",
-        "types": [
-          "超能力"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/579.png"
-      }
-    ]
+    "lineupPokemons": []
   },
   {
     "quote": "Bug-type Grunt",
     "orignialQuote": "Bug-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1720,131 +1287,15 @@
     "quote": "Rock-Type Grunt",
     "orignialQuote": "Rock-Type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
-    "lineupPokemons": [
-      {
-        "slotNo": 1,
-        "no": 696,
-        "name": "寶寶暴龍",
-        "originalName": "Tyrunt",
-        "types": [
-          "岩石",
-          "龍"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/696.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 698,
-        "name": "冰雪龍",
-        "originalName": "Amaura",
-        "types": [
-          "岩石",
-          "冰"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/698.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 524,
-        "name": "石丸子",
-        "originalName": "Roggenrola",
-        "types": [
-          "岩石"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/524.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 408,
-        "name": "頭蓋龍",
-        "originalName": "Cranidos",
-        "types": [
-          "岩石"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/408.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 410,
-        "name": "盾甲龍",
-        "originalName": "Shieldon",
-        "types": [
-          "岩石",
-          "鋼"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/410.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 75,
-        "name": "隆隆石",
-        "originalName": "Graveler",
-        "types": [
-          "岩石",
-          "地面"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/075.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 76,
-        "name": "隆隆岩",
-        "originalName": "Golem",
-        "types": [
-          "岩石",
-          "地面"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/076.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 697,
-        "name": "怪顎龍",
-        "originalName": "Tyrantrum",
-        "types": [
-          "岩石",
-          "龍"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/697.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 699,
-        "name": "冰雪巨龍",
-        "originalName": "Aurorus",
-        "types": [
-          "岩石",
-          "冰"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/699.png"
-      }
-    ]
+    "lineupPokemons": []
   },
   {
     "quote": "Ghost-type Grunt",
     "orignialQuote": "Ghost-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1968,124 +1419,9 @@
     "quote": "Dragon-Type Grunt",
     "orignialQuote": "Dragon-Type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
-    "lineupPokemons": [
-      {
-        "slotNo": 1,
-        "no": 147,
-        "name": "迷你龍",
-        "originalName": "Dratini",
-        "types": [
-          "龍"
-        ],
-        "catchable": false,
-        "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/147.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 371,
-        "name": "寶貝龍",
-        "originalName": "Bagon",
-        "types": [
-          "龍"
-        ],
-        "catchable": false,
-        "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/371.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 696,
-        "name": "寶寶暴龍",
-        "originalName": "Tyrunt",
-        "types": [
-          "岩石",
-          "龍"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/696.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 148,
-        "name": "哈克龍",
-        "originalName": "Dragonair",
-        "types": [
-          "龍"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/148.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 444,
-        "name": "尖牙陸鯊",
-        "originalName": "Gabite",
-        "types": [
-          "龍",
-          "地面"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/444.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 103,
-        "name": "椰蛋樹",
-        "originalName": "Alola Exeggutor",
-        "types": [
-          "草",
-          "龍"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/103_f2.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 149,
-        "name": "快龍",
-        "originalName": "Dragonite",
-        "types": [
-          "龍",
-          "飛行"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/149.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 373,
-        "name": "暴飛龍",
-        "originalName": "Salamence",
-        "types": [
-          "龍",
-          "飛行"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/373.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 697,
-        "name": "怪顎龍",
-        "originalName": "Tyrantrum",
-        "types": [
-          "岩石",
-          "龍"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/697.png"
-      }
-    ]
+    "lineupPokemons": []
   },
   {
     "quote": "Dark-type Grunt",
@@ -2190,114 +1526,9 @@
     "quote": "Steel-type Grunt",
     "orignialQuote": "Steel-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
-    "lineupPokemons": [
-      {
-        "slotNo": 1,
-        "no": 50,
-        "name": "地鼠",
-        "originalName": "Alola Diglett",
-        "types": [
-          "地面",
-          "鋼"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/050_f2.png"
-      },
-      {
-        "slotNo": 1,
-        "no": 374,
-        "name": "鐵啞鈴",
-        "originalName": "Beldum",
-        "types": [
-          "鋼",
-          "超能力"
-        ],
-        "catchable": false,
-        "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/374.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 227,
-        "name": "盔甲鳥",
-        "originalName": "Skarmory",
-        "types": [
-          "鋼",
-          "飛行"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/227.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 305,
-        "name": "可多拉",
-        "originalName": "Lairon",
-        "types": [
-          "鋼",
-          "岩石"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/305.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 375,
-        "name": "金屬怪",
-        "originalName": "Metang",
-        "types": [
-          "鋼",
-          "超能力"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/375.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 205,
-        "name": "佛烈托斯",
-        "originalName": "Forretress",
-        "types": [
-          "蟲",
-          "鋼"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/205.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 306,
-        "name": "波士可多拉",
-        "originalName": "Aggron",
-        "types": [
-          "鋼",
-          "岩石"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/306.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 28,
-        "name": "穿山王",
-        "originalName": "Alola Sandslash",
-        "types": [
-          "冰",
-          "鋼"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/028_f2.png"
-      }
-    ]
+    "lineupPokemons": []
   },
   {
     "quote": "Fairy-type Grunt",
@@ -2402,208 +1633,7 @@
     "category": "",
     "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
-    "lineupPokemons": [
-      {
-        "slotNo": 1,
-        "no": 143,
-        "name": "卡比獸",
-        "originalName": "Snorlax",
-        "types": [
-          "一般"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 143,
-        "name": "卡比獸",
-        "originalName": "Snorlax",
-        "types": [
-          "一般"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 62,
-        "name": "蚊香泳士",
-        "originalName": "Poliwrath",
-        "types": [
-          "水",
-          "格鬥"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/062.png"
-      },
-      {
-        "slotNo": 2,
-        "no": 282,
-        "name": "沙奈朵",
-        "originalName": "Gardevoir",
-        "types": [
-          "超能力",
-          "妖精"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/282.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 143,
-        "name": "卡比獸",
-        "originalName": "Snorlax",
-        "types": [
-          "一般"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/143.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 130,
-        "name": "暴鯉龍",
-        "originalName": "Gyarados",
-        "types": [
-          "水",
-          "飛行"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/130.png"
-      },
-      {
-        "slotNo": 3,
-        "no": 149,
-        "name": "快龍",
-        "originalName": "Dragonite",
-        "types": [
-          "龍",
-          "飛行"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/149.png"
-      },
-      {
-        "slotNo": 4,
-        "no": 1,
-        "name": "妙蛙種子",
-        "originalName": "Bulbasaur",
-        "types": [
-          "草",
-          "毒"
-        ],
-        "catchable": false,
-        "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/001.png"
-      },
-      {
-        "slotNo": 4,
-        "no": 4,
-        "name": "小火龍",
-        "originalName": "Charmander",
-        "types": [
-          "火"
-        ],
-        "catchable": false,
-        "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/004.png"
-      },
-      {
-        "slotNo": 4,
-        "no": 7,
-        "name": "傑尼龜",
-        "originalName": "Squirtle",
-        "types": [
-          "水"
-        ],
-        "catchable": false,
-        "shinyAvailable": true,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/007.png"
-      },
-      {
-        "slotNo": 5,
-        "no": 2,
-        "name": "妙蛙草",
-        "originalName": "Ivysaur",
-        "types": [
-          "草",
-          "毒"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/002.png"
-      },
-      {
-        "slotNo": 5,
-        "no": 5,
-        "name": "火恐龍",
-        "originalName": "Charmeleon",
-        "types": [
-          "火"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/005.png"
-      },
-      {
-        "slotNo": 5,
-        "no": 8,
-        "name": "卡咪龜",
-        "originalName": "Wartortle",
-        "types": [
-          "水"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/008.png"
-      },
-      {
-        "slotNo": 6,
-        "no": 3,
-        "name": "妙蛙花",
-        "originalName": "Venusaur",
-        "types": [
-          "草",
-          "毒"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/003.png"
-      },
-      {
-        "slotNo": 6,
-        "no": 6,
-        "name": "噴火龍",
-        "originalName": "Charizard",
-        "types": [
-          "火",
-          "飛行"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/006.png"
-      },
-      {
-        "slotNo": 6,
-        "no": 9,
-        "name": "水箭龜",
-        "originalName": "Blastoise",
-        "types": [
-          "水"
-        ],
-        "catchable": false,
-        "shinyAvailable": false,
-        "imageUrl": "https://db.pokemongohub.net/images/official/detail/009.png"
-      }
-    ]
+    "lineupPokemons": []
   },
   {
     "quote": "Detailed GO Rocket Grunt Mechanics",
