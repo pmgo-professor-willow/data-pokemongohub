@@ -11,7 +11,7 @@
     "quote": "Dark-type Grunt",
     "orignialQuote": "Dark-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -111,7 +111,7 @@
     "quote": "Dragon-Type Grunt",
     "orignialQuote": "Dragon-Type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -235,7 +235,7 @@
     "quote": "Electric-type Grunt",
     "orignialQuote": "Electric-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -977,7 +977,7 @@
     "quote": "Ground-Type Grunt",
     "orignialQuote": "Ground-Type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1100,7 +1100,7 @@
     "quote": "Ice-type Grunt",
     "orignialQuote": "Ice-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1467,7 +1467,7 @@
     "quote": "Psychic-type Grunt",
     "orignialQuote": "Psychic-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1700,7 +1700,7 @@
     "quote": "Steel-type Grunt",
     "orignialQuote": "Steel-type Grunt",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
     "isSpecial": false,
     "lineupPokemons": [
       {
@@ -1834,7 +1834,7 @@
     "quote": "Starter and Snorlax Grunts",
     "orignialQuote": "Starter and Snorlax Grunts",
     "category": "",
-    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-male.png",
+    "characterImageUrl": "https://raw.githubusercontent.com/pmgo-professor-willow/data-pokemongohub/main/assets/grunt-female.png",
     "isSpecial": false,
     "lineupPokemons": []
   },
